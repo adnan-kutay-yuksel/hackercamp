@@ -74,6 +74,7 @@
 - Kevin Mitnick
 - Kevin Poulsen
 - Robert Tappan Morris
+- Edward Snowden
 
 ## Büyük Olaylar
 
