@@ -69,6 +69,8 @@
 
 ## Ünlü Hackerlar
 
+- Kevin Mitnick
+- Edward Snowden
 - Jonathan James
 - Adrian Lamo
 - Kevin Mitnick
